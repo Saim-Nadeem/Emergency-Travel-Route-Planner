@@ -155,9 +155,10 @@ See the [LICENSE](LICENSE) file for details.
 
 ## 🙌 Acknowledgments
 
-- Developed as a part of **CS-2001 Data Structures** course at university.
-- Graph traversal logic inspired by classic **BFS shortest path**.
-- Assignment inspired by real-world emergency response routing.
+- Developed as a part of **CS-2001 Data Structures** course at **FAST NUCES Islamabad**.
+- Graph traversal logic inspired by classic **BFS shortest path** algorithm.
+- Assignment inspired by real-world **emergency response routing** and time-constrained travel planning.
+
 
 ---
 
