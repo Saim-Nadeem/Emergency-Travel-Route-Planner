@@ -121,12 +121,12 @@ g++ main.cpp -o travel_planner
 
 ## ✅ Requirements Fulfilled (Based on Rubric)
 
-- ✅ **Graph Creation:** Road + Aerial edges with city link visualization
-- ✅ **BFS Traversal:** Optimized path-finding with cycle avoidance
-- ✅ **Input Handling:** Robust string parsing and validation
-- ✅ **Output Accuracy:** Days and shortest path clearly printed
-- ✅ **Code Quality:** Structured, modular, and well-commented
-- ✅ **Bonus:** Reverse queue usage to display city sequence
+- **Graph Creation:** Road + Aerial edges with city link visualization
+- **BFS Traversal:** Optimized path-finding with cycle avoidance
+- **Input Handling:** Robust string parsing and validation
+- **Output Accuracy:** Days and shortest path clearly printed
+- **Code Quality:** Structured, modular, and well-commented
+- **Bonus:** Reverse queue usage to display city sequence
 
 ---
 
